@@ -6,7 +6,7 @@ Panduan cepat untuk development dan deployment AlumniChain.
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourusername/alumnichain.git
+git clone https://github.com/mrbrightsides/alumnichain.git
 cd alumnichain
 
 # 2. Install dependencies
@@ -29,7 +29,7 @@ That's it! 🎉
 # Private/Public: Your choice
 
 # 2. Add remote
-git remote add origin https://github.com/yourusername/alumnichain.git
+git remote add origin https://github.com/mrbrightsides/alumnichain.git
 
 # 3. Push all branches & tags
 git push -u origin main
