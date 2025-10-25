@@ -29,7 +29,7 @@ We are committed to providing a welcoming and inspiring community for everyone.
 ```bash
 # Click "Fork" on GitHub
 # Then clone your fork
-git clone https://github.com/YOUR_USERNAME/alumnichain.git
+git clone https://github.com/mrbrightsides/alumnichain.git
 cd alumnichain
 ```
 
@@ -466,7 +466,7 @@ Contributors will be recognized in:
 
 - **Questions:** Open a GitHub Discussion
 - **Bugs:** Open a GitHub Issue
-- **Security:** Email security@example.com (private)
+- **Security:** Email support@elpeef.com
 
 ## 📄 License
 
